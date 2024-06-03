@@ -1,0 +1,11 @@
+.service-card {
+    transition: transform 0.2s;
+}
+
+.service-card:hover {
+    transform: scale(1.05);
+}
+
+.h2 {
+    margin: 40px;
+}
