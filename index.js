@@ -2,13 +2,13 @@
 const servicesData = [
     {
         id: 1,
-        name: 'House Cleaning',
-        category: 'Cleaning',
-        rate: 'Rs. 20,000',
-        location: 'Colombo',
+        name: '',
+        category: '',
+        rate: '',
+        location: '',
         images: ['img1.jpg', 'img1.jpg', 'img1.jpg'],
-        postedDate: '2023-05-01',
-        description: 'Professional house cleaning services available at affordable rates. Contact us for more details.'
+        postedDate: '',
+        description: ''
     },
     // Add more services here
 ];
